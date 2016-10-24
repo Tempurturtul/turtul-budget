@@ -41,5 +41,3 @@ A budget is saved as a file either locally on the user's machine, or on a cloud-
 Inspired by [dsBudget](https://sites.google.com/site/dsbudgethome/).
 
 Bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
-
-Icons provided by [Aiconica.net](http://aiconica.net/).
