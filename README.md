@@ -14,7 +14,7 @@ A budget is saved as a file either locally on the user's machine, or on a cloud-
 
 ## Development Quickstart
 
-- Install [Node.js](https://nodejs.org/en/) and [update npm](https://docs.npmjs.com/getting-started/installing-node).
+- Install [Node.js](https://nodejs.org/en/) and [update npm](https://docs.npmjs.com/getting-started/installing-node#updating-npm).
 - Clone this repository and navigate to it.
 
   ```
