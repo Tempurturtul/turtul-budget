@@ -73,9 +73,9 @@
      inkscape:window-height="717"
      id="namedview5834"
      showgrid="false"
-     inkscape:zoom="0.6"
-     inkscape:cx="68.372679"
-     inkscape:cy="306.14877"
+     inkscape:zoom="0.84852814"
+     inkscape:cx="217.24854"
+     inkscape:cy="285.24286"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -728,7 +728,7 @@
          x="265"
          y="238">$550.00</tspan></text>
     <g
-       transform="matrix(0,-0.85014962,0.85014962,0,-218.48027,259.55602)"
+       transform="matrix(0.85014962,0,0,0.85014962,11.195168,-27.922326)"
        id="g3765">
       <path
          style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -841,7 +841,7 @@
          sodipodi:role="line">$200.00</tspan></text>
     <g
        id="g3815"
-       transform="matrix(0.85014962,0,0,0.85014962,11.195168,88.077684)">
+       transform="matrix(0,-0.85014962,0.85014962,0,-218.48027,375.55603)">
       <path
          inkscape:connector-curvature="0"
          id="path3817"
@@ -1006,7 +1006,7 @@
          sodipodi:role="line">$200.00</tspan></text>
     <g
        id="g3895"
-       transform="matrix(0.85014962,0,0,0.85014962,11.195168,152.07767)">
+       transform="matrix(0,-0.85014962,0.85014962,0,-218.48027,439.55602)">
       <path
          inkscape:connector-curvature="0"
          id="path3897"
@@ -1068,7 +1068,7 @@
          x="279"
          y="478">$50.00</tspan></text>
     <g
-       transform="matrix(0.85014962,0,0,0.85014962,11.195168,212.07767)"
+       transform="matrix(0,-0.85014962,0.85014962,0,-218.48027,499.55602)"
        id="g3933">
       <path
          style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1335,7 +1335,7 @@
            sodipodi:role="line">$2,050.00</tspan></text>
     </g>
     <g
-       transform="matrix(0.85014962,0,0,0.85014962,11.195171,56.077676)"
+       transform="matrix(0,-0.85014962,0.85014962,0,-218.48027,343.55602)"
        id="g3579">
       <path
          style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1421,7 +1421,7 @@
          sodipodi:role="line">$0.00</tspan></text>
     <g
        id="g3629"
-       transform="matrix(0.85014962,0,0,0.85014962,11.195171,132.07768)">
+       transform="matrix(0,-0.85014962,0.85014962,0,-218.48027,419.55603)">
       <path
          inkscape:connector-curvature="0"
          id="path3631"
@@ -1752,7 +1752,7 @@
     </g>
     <g
        id="g10378"
-       transform="matrix(0,-0.85014962,0.85014962,0,-218.48027,343.55602)">
+       transform="matrix(0.85014962,0,0,0.85014962,11.195168,56.077674)">
       <path
          inkscape:connector-curvature="0"
          id="path10374"
@@ -1885,7 +1885,7 @@
          x="291"
          y="458">$0.00</tspan></text>
     <g
-       transform="matrix(0,-0.85014962,0.85014962,0,-218.48027,479.55603)"
+       transform="matrix(0.85014962,0,0,0.85014962,11.195168,192.07768)"
        id="g10426">
       <path
          style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
