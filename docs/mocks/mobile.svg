@@ -93,9 +93,9 @@
      inkscape:window-height="717"
      id="namedview5834"
      showgrid="false"
-     inkscape:zoom="0.1767767"
-     inkscape:cx="1308.6165"
-     inkscape:cy="3320.7013"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="1337.1914"
+     inkscape:cy="4278.2991"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -6664,8 +6664,8 @@
      id="layer2"
      inkscape:label="Notes"
      style="display:none"
-     sodipodi:insensitive="true"
-     transform="translate(-2.5863647e-5,4.4726563e-5)">
+     transform="translate(-2.5863647e-5,4.4726563e-5)"
+     sodipodi:insensitive="true">
     <g
        id="g15191"
        transform="translate(-338,344)">
@@ -6774,6 +6774,77 @@
            y="2539.3176"
            style="font-size:15px;stroke:none;stroke-opacity:1"
            id="tspan15938">the related inputs to appear.</tspan></text>
+    </g>
+    <g
+       id="g15940"
+       transform="translate(182,-1544)">
+      <rect
+         y="2494.0007"
+         x="1620.1395"
+         height="81.507301"
+         width="307.78149"
+         id="rect15942"
+         style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:1.10286546;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text15944"
+         y="2520.5676"
+         x="1631.6667"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           id="tspan15948"
+           style="font-size:15px;stroke:none;stroke-opacity:1"
+           y="2520.5676"
+           x="1631.6667"
+           sodipodi:role="line">What happens when we remove a</tspan><tspan
+           style="font-size:15px;stroke:none;stroke-opacity:1"
+           y="2539.3176"
+           x="1631.6667"
+           sodipodi:role="line"
+           id="tspan15952">sheet that contains funds and is an</tspan><tspan
+           style="font-size:15px;stroke:none;stroke-opacity:1"
+           y="2558.0676"
+           x="1631.6667"
+           sodipodi:role="line"
+           id="tspan15954">ancestor to another sheet?</tspan></text>
+    </g>
+    <g
+       transform="translate(182,-1816)"
+       id="g15956">
+      <rect
+         style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:1.22852588;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect15958"
+         width="307.65585"
+         height="101.18063"
+         x="1620.2024"
+         y="2494.0637" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="1631.6667"
+         y="2520.5676"
+         id="text15960"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="1631.6667"
+           y="2520.5676"
+           style="font-size:15px;stroke:none;stroke-opacity:1"
+           id="tspan15973">What happens if a sheet's time range</tspan><tspan
+           sodipodi:role="line"
+           x="1631.6667"
+           y="2539.3176"
+           style="font-size:15px;stroke:none;stroke-opacity:1"
+           id="tspan15977">overlaps with another's? What about</tspan><tspan
+           sodipodi:role="line"
+           x="1631.6667"
+           y="2558.0676"
+           style="font-size:15px;stroke:none;stroke-opacity:1"
+           id="tspan15979">a sheet that starts before it's</tspan><tspan
+           sodipodi:role="line"
+           x="1631.6667"
+           y="2576.8176"
+           style="font-size:15px;stroke:none;stroke-opacity:1"
+           id="tspan15981">ancestor?</tspan></text>
     </g>
   </g>
   <text
