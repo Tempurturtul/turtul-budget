@@ -93,13 +93,13 @@
      inkscape:window-height="717"
      id="namedview5834"
      showgrid="false"
-     inkscape:zoom="0.42426407"
-     inkscape:cx="755.37591"
-     inkscape:cy="2334.2444"
+     inkscape:zoom="0.3"
+     inkscape:cx="740.17122"
+     inkscape:cy="2267.24"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      fit-margin-top="50"
      fit-margin-left="50"
      fit-margin-right="50"
@@ -5969,6 +5969,66 @@
          id="tspan15105"
          x="274.95789"
          y="774.52728"></tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Notes"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1646.6667"
+       y="3037.9009"
+       id="text15161"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan15163"
+         x="1646.6667"
+         y="3037.9009"
+         style="font-size:15px">An expense category cannot be removed</tspan><tspan
+         sodipodi:role="line"
+         x="1646.6667"
+         y="3056.6509"
+         style="font-size:15px"
+         id="tspan15165">if there exists a fund with a value &gt; 0.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1641.6667"
+       y="2520.5676"
+       id="text15131"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="1641.6667"
+         y="2520.5676"
+         id="tspan15135"
+         style="font-size:15px;stroke:none;stroke-opacity:1">A fund with a value &gt; 0 cannot be</tspan><tspan
+         sodipodi:role="line"
+         x="1641.6667"
+         y="2539.3176"
+         id="tspan15139"
+         style="font-size:15px;stroke:none;stroke-opacity:1">abolished. The user will be prompted</tspan><tspan
+         sodipodi:role="line"
+         x="1641.6667"
+         y="2558.0676"
+         id="tspan15141"
+         style="font-size:15px;stroke:none;stroke-opacity:1">either to add the value of the fund as</tspan><tspan
+         sodipodi:role="line"
+         x="1641.6667"
+         y="2576.8176"
+         id="tspan15145"
+         style="font-size:15px;stroke:none;stroke-opacity:1">income (will be automatically done if</tspan><tspan
+         sodipodi:role="line"
+         x="1641.6667"
+         y="2595.5676"
+         id="tspan15155"
+         style="font-size:15px;stroke:none;stroke-opacity:1">chosen), or to create an expense &gt;=</tspan><tspan
+         sodipodi:role="line"
+         x="1641.6667"
+         y="2614.3176"
+         id="tspan15159"
+         style="font-size:15px;stroke:none;stroke-opacity:1">the value of the fund.</tspan></text>
   </g>
   <text
      xml:space="preserve"
