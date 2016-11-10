@@ -4,13 +4,7 @@ Non-intrusive, free, open source budget software.
 
 **Why Another Budget App?:**
 
-Turtul Budget is intended to be a simple, intuitive alternative for users who want to manually track and categorize expenses, while retaining full control over their financial data. It runs in the browser, and there are no logins, bank or credit card information required.
-
-**How Budget Data is Handled:**
-
-*(Planned - Project in development.)*
-
-A budget is saved as a file either locally on the user's machine, or on a cloud-based service of the user's choosing. Budget files may optionally be encrypted. Budget data is never transmitted or stored anywhere other than where the user chooses to save the budget file. No budget data persists in the browser after the application is closed.
+Turtul Budget is intended to be a simple, intuitive alternative for users who want to manually track and categorize expenses, while retaining full control over their financial data. It runs in the browser, and there are no logins, bank or credit card information required. All budget data is stored in an optionally encrypted file in a location of the user's choosing.
 
 ## Development Quickstart
 
