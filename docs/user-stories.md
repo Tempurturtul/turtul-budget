@@ -6,6 +6,8 @@
 - [ ] Set a budget's name and description.
 - [ ] Save a budget to a file.
 - [ ] Load a budget from a file.
+- [ ] Encrypt a budget.
+- [ ] Decrypt a budget.
 
 **Sheets**
 
