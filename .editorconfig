@@ -1,11 +1,25 @@
-# http://editorconfig.org/
+# http://EditorConfig.org
 
+# Top-most `.editorconfig` file.
 root = true
 
+# Matches all files.
 [*]
+# Tabs instead of spaces.
+indent_style = tab
+# Unix-style newlines.
 end_of_line = lf
-insert_final_newline = true
+# Use utf-8 encoding.
 charset = utf-8
-indent_style = space
-indent_size = 2
+# No trailing whitespace.
 trim_trailing_whitespace = true
+# Always insert a final newline.
+insert_final_newline = true
+
+# Matches only the `package.json` file.
+# These rules follow convention for the `package.json` file.
+[{package.json}]
+# Spaces instead of tabs.
+indent_style = space
+# Two spaces to represent one tab.
+indent_size = 2
